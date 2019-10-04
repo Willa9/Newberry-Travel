@@ -1,0 +1,134 @@
+body {
+  background: #D8D9D0;
+}
+
+header {
+  background-color: #A67C7C;
+  width: 100%;
+  height: 85px;
+  text-align: center;
+  padding: 10px 10px;
+}
+
+ul {
+  padding: 10px;
+  text-align: justify;
+  width: 100%;
+}
+
+li {
+  color: #0F6A8F;
+  font-size: 16px;
+  display: inline-block;
+  width: 100px;
+}
+
+.new1 {
+  color: #FFFFFF;
+  font-family: "Helvetica";
+  font-size: 20px;
+  width: 100%;
+  height: 500px;
+  padding: 0;
+  background-image: url("https://static.wixstatic.com/media/5aa71a_7434e0f823d4400a95174d50a85e9f62~mv2.jpg/v1/fill/w_953,h_405,al_c,q_85/11012525_10154165051534478_1401411750733.webp");
+  background-size: 100%;
+}
+
+.topportion {
+  background-color: #448AA6;
+  padding: 20px;
+}
+
+.firstline {
+  color: #0F6A8F;
+  text-align: center;
+}
+
+.threephotos {
+  background-color: #448AA6;
+}
+
+.posts {
+  background: #393D40;
+  color: #000000;
+  margin: auto;
+}
+
+.restaurants {
+  background-image: url("https://static.wixstatic.com/media/5aa71a_52b3fb4c491a4f1a9677ff44a56556db~mv2.jpg/v1/crop/x_182,y_0,w_773,h_640/fill/w_283,h_234,al_c,q_80,usm_0.66_1.00_0.01/11817085_10154165051159478_7379370236652.webp");
+  width: 280px;
+  height: 225px;
+  text-align: center;
+  color: #000000;
+}
+
+.lodging {
+  background-image: url("https://static.wixstatic.com/media/5aa71a_77248eedb85244fdbf137582f7cfeb05~mv2.jpg/v1/crop/x_94,y_0,w_773,h_640/fill/w_283,h_234,al_c,q_80,usm_0.66_1.00_0.01/11800396_10154165051644478_2452382046139.webp");
+  width: 280px;
+  height: 225px;
+  text-align: center;
+  margin: 2px 37% 2px 37%;
+  color: #000000;
+}
+
+.excursions {
+  background-image: url("https://static.wixstatic.com/media/5aa71a_b1e2a3bafd8c40619541080211a6c579~mv2.jpg/v1/crop/x_94,y_0,w_773,h_640/fill/w_283,h_234,al_c,q_80,usm_0.66_1.00_0.01/11796469_10154165062019478_9403219109131.webp");
+  width: 280px;
+  height: 225px;
+  text-align: center;
+  margin: 0px 37% 0px 37%;
+  color: #000000;
+}
+
+.featured {
+  background-color: #A67C7C;
+  text-align: center;
+  color: #000000;
+  padding: 3px 20% 3px 20%;
+  position: relative;
+  font-family: "Merriweather";
+}
+
+footer {
+  background-color: #A67C7C;
+  color: #A1DCF2;
+  width: 100%;
+  height: 275px;
+  font-family: "Merriweather";
+}
+
+td {
+  color: #A1DCF2;
+  line-height: 25%;
+}
+
+.emailaddress {
+  background-color: #72C6E5;
+  color: #000000;
+  padding: 1%;
+  line-height: 25%;
+  margin: 10px;
+}
+
+
+.subscribebutton {
+  background-color: #747575;
+  padding: 1%;
+  text-align: center;
+  margin: 10px;
+}
+
+.one, .two, .three, .four, .five, .six {
+  background-color: #448AA6;
+  margin: 5px 10%;
+  padding: 20px;
+  font-family: "Merriweather";
+}
+
+.column {
+
+}
+
+.row {
+  
+}
